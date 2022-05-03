@@ -13,7 +13,7 @@ Quarto projeto em grupo da Trybe, onde, com o auxilio de Metodologias Ágeis, ut
 ---
 #### Preview
 <img style="width: 150px" src="./images/preview1.png"> <img style="width: 150px" src="./images/preview2.png"> <img style="width: 150px" src="./images/preview3.png">
-<img style="width: 150px" src="./images/preview4.png"> <img style="width: 150px" src="./images/preview5.png"> <img style="width: 165px" src="./images/preview6.png">
+<img style="width: 150px" src="./images/preview4.png"> <img style="width: 150px" src="./images/preview5.png">
 
 ---
 #### Para roda-lo localmente:
